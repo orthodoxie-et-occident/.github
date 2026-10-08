@@ -7,9 +7,9 @@ Détails dans le [guide de contribution](https://github.com/orthodoxie-et-occide
 
 **Application mobile ECOF**
 
-- [`ecof-app`](https://github.com/orthodoxie-et-occident/ecof-app) : frontend de l'application mobile ECOF
-- [`ecof-api-v2`](https://github.com/orthodoxie-et-occident/ecof-api) : backend API de l'application mobile ECOF
-- [`ecof-landing`](https://github.com/orthodoxie-et-occident/ecof-web) : site de l'application mobile ECOF
+- [`ecof-app`](https://github.com/orthodoxie-et-occident/ecof-app) : frontend
+- [`ecof-api`](https://github.com/orthodoxie-et-occident/ecof-api) : backend API
+- [`ecof-web`](https://github.com/orthodoxie-et-occident/ecof-web) : site web
 
 **Ressources**
 
