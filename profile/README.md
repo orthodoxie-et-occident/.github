@@ -5,7 +5,12 @@ Détails dans le [guide de contribution](https://github.com/orthodoxie-et-occide
 
 ## Dépôts principaux
 
-[`ecof-app`](https://github.com/orthodoxie-et-occident/ecof-app) : frontend de l'applicatiion mobile ECOF  
-[`ecof-api`](https://github.com/orthodoxie-et-occident/ecof-api-v2) : backend API de l'application mobile ECOF  
-[`ecof-landing`](https://github.com/orthodoxie-et-occident/ecof-landing) : site web et landing page pour l'application mobile ECOF  
-[`synaxar`](#) : répertoire des vies de saints  
+**Application mobile ECOF**
+
+- [`ecof-app`](https://github.com/orthodoxie-et-occident/ecof-app) : frontend de l'application mobile
+- [`ecof-api-v2`](https://github.com/orthodoxie-et-occident/ecof-api-v2) : backend API de l'application mobile
+- [`ecof-landing`](https://github.com/orthodoxie-et-occident/ecof-landing) : site web et landing page de l'application
+
+**Ressources**
+
+- [`synaxar`](https://github.com/orthodoxie-et-occident/synaxar) : répertoire des vies de saints
