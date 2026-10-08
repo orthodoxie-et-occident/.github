@@ -13,4 +13,4 @@ Détails dans le [guide de contribution](https://github.com/orthodoxie-et-occide
 
 **Ressources**
 
-- [`synaxar`](https://github.com/orthodoxie-et-occident/synaxar) : répertoire des vies de saints
+- [`synaxar`](https://github.com/orthodoxie-et-occident/synaxar) : vies des saints du calendrier liturgique
